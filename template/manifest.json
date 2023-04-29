@@ -90,7 +90,10 @@
                 [
                     "keyboard/letter_1.wav",
                     "keyboard/letter_2.wav",
-                    "keyboard/letter_3.wav"
+                    "keyboard/letter_3.wav",
+                    "keyboard/letter_4.wav",
+                    "keyboard/letter_5.wav",
+                    "keyboard/letter_6.wav"
                 ],
                 "TYPING_SPACE":
                 [
