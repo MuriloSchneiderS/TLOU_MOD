@@ -30,17 +30,8 @@
                         |_|                
 ...............................................................................
 
-Hey there, welcome to the mod creation template based on the Purple Haze theme
-from  Opera GX. This  template  includes the original keyboard sounds, browser
-sounds, and music from Opera GX, as well as light and dark wallpapers that are
-based on the original Purple Haze wallpapers but have added information at the
-bottom to set them apart. There is also an example of animated wallpaper.
-
-We've also included a simple web  modding  CSS that changes the text color and
-background  color on web pages in the opera.com domain. This will show you how
-to read colors from the browser and apply them to web pages. And lastly, we've
-included  basic shaders  that  demonstrate  how  to  use  animated and  static
-versions. Have fun creating your mods!
+Hey there, use this mod however you want, here is the code: 
+https://github.com/MuriloSchneiderS/TLOU_MOD
                               
  _____           _ _ _       
 |     |___ ___ _| |_| |_ ___ 
@@ -48,23 +39,13 @@ versions. Have fun creating your mods!
 |_____|_| |___|___|_|_| |___|
 ...............................................................................
 
-CREDITS GO HERE
-                                                              
- __    _                         
-|  |  |_|___ ___ ___ ___ ___ ___ 
-|  |__| |  _| -_|   |  _| -_|_ -|
-|_____|_|___|___|_|_|___|___|___|
-...............................................................................
-               
-LICENCES GO HERE
-                       
- _____       _         
-|  |  |_ _ _| |___ ___ 
-|    -| | | . | . |_ -|
-|__|__|___|___|___|___|
-...............................................................................
-                       
-KUDOS GO HERE
+MOD CREATED BY: AMP&RSAND (https://github.com/MuriloSchneiderS);
+ANIMATED BACKGROUND: https://www.youtube.com/watch?v=MwggcQA8HC0&t=3s;
+THEME: MainDev3's Black Hole mod (https://store.gx.me/mods/7ab2ki/black-hole/);
+KEYBOARD SOUNDS: https://www.youtube.com/watch?v=Bm4oalrPlbQ;
+CLICK: https://www.youtube.com/watch?v=jzDMlxV7Y9k;
+OPEN/CLOSE TAB: https://www.youtube.com/watch?v=dnQqUQU3WZs;
+SOUNDTRACK: MainMenu, Astray - GustavoSantaolalla, ThemeSong.
 
  _____ _       ___ ___ 
 |   __| |_ _ _|  _|  _|
@@ -72,5 +53,4 @@ KUDOS GO HERE
 |_____|_| |___|_| |_|  
 ...............................................................................
                        
-OTHER STUFF GOES HERE
-
+i need a job
