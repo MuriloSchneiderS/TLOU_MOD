@@ -1,13 +1,13 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "name": "TLOU_MOD",
+    "description": "An The Last Of Us mod for OperaGX",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "AMP&RSAND"
     },
     "icons":
     {
-        "512": "icon_512.png"
+        "512": "icon_window.jfif"
     },
     "manifest_version": 3,
     "mod":
@@ -17,10 +17,9 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
-                "music/track_2.mp3",
-                "music/track_3.mp3",
-                "music/track_4.mp3"
+                "music/MainMenuMusic.mp3",
+                "music/Astray-GustavoSantaolalla.mp3",
+                "music/ThemeSong.mp3"
             ],
             "browser_sounds":
             {
