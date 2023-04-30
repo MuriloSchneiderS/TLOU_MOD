@@ -45,7 +45,7 @@ THEME: MainDev3's Black Hole mod (https://store.gx.me/mods/7ab2ki/black-hole/);
 KEYBOARD SOUNDS: https://www.youtube.com/watch?v=Bm4oalrPlbQ;
 CLICK: https://www.youtube.com/watch?v=jzDMlxV7Y9k;
 OPEN/CLOSE TAB: https://www.youtube.com/watch?v=dnQqUQU3WZs;
-SOUNDTRACK: MainMenu, Astray - GustavoSantaolalla, ThemeSong.
+SOUNDTRACK: MainMenu music, Astray - GustavoSantaolalla and ThemeSong.
 
  _____ _       ___ ___ 
 |   __| |_ _ _|  _|  _|

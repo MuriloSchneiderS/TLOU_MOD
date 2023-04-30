@@ -18,7 +18,6 @@
             "background_music":
             [
                 "music/MainMenuMusic.mp3",
-                "music/Astray-GustavoSantaolalla.mp3",
                 "music/ThemeSong.mp3"
             ],
             "browser_sounds":
